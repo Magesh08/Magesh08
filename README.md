@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Magesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on web development **Cgpa Calculator**
+
+- 🌱 I’m currently learning Web Development **React js**
+
+- 📫 How to reach me **mageshvaran16@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/mages/Downloads/Magesh%20(2).pdf](file:///C:/Users/mages/Downloads/Magesh%20(2).pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/magesh-varan-96b92421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magesh-varan-96b92421b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
