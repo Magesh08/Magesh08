@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mageshvaran16@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/mages/Downloads/Magesh%20(2).pdf](file:///C:/Users/mages/Downloads/Magesh%20(2).pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
