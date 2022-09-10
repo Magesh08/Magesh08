@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Magesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on web development **Cgpa Calculator**
+- 🔭 I’m currently working on  **Expanse tracker** using React js
 
 - 🌱 I’m currently learning Web Development **React js**
 
