@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **React js (Web development)**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+-✨ I’m looking to collaborate on React JS and JavaScript
+
+- 🧑🏾‍💻 I’m interested in Web Development, JavaScript, and React.js.
 
 - 📫 How to reach me **mageshvaran16@gmail.com**
 
