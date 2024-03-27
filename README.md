@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **Expanse Tracker Web app**
+- 🔭 I’m currently working on **NaNo Robot Picking**
 
-- 🌱 I’m currently learning **React js (Web development)**
+- 🌱 I’m currently learning **Flutter,FlutterFlow,Python**
 
-- ✨ I’m looking to collaborate on React JS and JavaScript
+- ✨ I’m looking to collaborate on Flutter 
 
-- 🧑🏾‍💻 I’m interested in Web Development, JavaScript, and React.js.
+- 🧑🏾‍💻 I’m interested in Native App Development, Daer, and Flutter.
 
 - 📫 How to reach me **mageshvaran16@gmail.com**
 
