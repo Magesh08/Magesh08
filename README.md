@@ -11,7 +11,7 @@
 
 - ✨ I’m looking to collaborate on Flutter 
 
-- 🧑🏾‍💻 I’m interested in Native App Development, Daer, and Flutter.
+- 🧑🏾‍💻 I’m interested in Native App Development, Dart, and Flutter.
 
 - 📫 How to reach me **mageshvaran16@gmail.com**
 
