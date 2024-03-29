@@ -26,8 +26,9 @@
 <p align="left"> 
     <!-- Add FlutterFlow -->
 <a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://avatars.githubusercontent.com/u/70478636?s=200&v=4" alt="flutterflow" width="40" height="40"/> 
+  <img src="https://example.com/flutterflow_logo.png" alt="flutterflow" width="40" height="40"/> 
 </a> 
+
    <!-- Add Flutter and Dart -->
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
