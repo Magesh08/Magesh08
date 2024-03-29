@@ -25,9 +25,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <!-- Add FlutterFlow -->
-  <a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://pbs.twimg.com/profile_images/1394983692461238274/5D3-MHI3_400x400.jpg" alt="flutterflow" width="40" height="40"/> 
-  </a> 
+<a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars.githubusercontent.com/u/70478636?s=200&v=4" alt="flutterflow" width="40" height="40"/> 
+</a> 
    <!-- Add Flutter and Dart -->
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
