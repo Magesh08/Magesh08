@@ -24,11 +24,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <!-- Add FlutterFlow -->
-<a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://example.com/flutterflow_logo.png" alt="flutterflow" width="40" height="40"/> 
-</a> 
-
    <!-- Add Flutter and Dart -->
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
@@ -36,9 +31,7 @@
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
-   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tiangolo/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
