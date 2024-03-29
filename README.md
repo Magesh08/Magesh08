@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magesh</h1>
-<h3 align="center">I'm Currently pursing My Bachlor Degree on GIT (B.E-CSE)</h3>
+<h3 align="center">Software Engineer at LeapMile Robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magesh08&label=Profile%20views&color=0e75b6&style=flat" alt="magesh08" /> </p>
 
