@@ -42,5 +42,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magesh08&show_icons=true&locale=en&layout=compact" alt="magesh08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magesh08&show_icons=true&locale=en" alt="magesh08" /></p>
 
